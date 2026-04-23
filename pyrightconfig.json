@@ -1,0 +1,14 @@
+﻿{
+  "include": [
+    "src/main.py",
+    "src/app"
+  ],
+  "exclude": [
+    "**/__pycache__",
+    "src/.venv"
+  ],
+  "venvPath": "src",
+  "venv": ".venv",
+  "pythonVersion": "3.13",
+  "typeCheckingMode": "basic"
+}
